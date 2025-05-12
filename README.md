@@ -1,6 +1,7 @@
 # EndaveourOS-on-MacBookPro
 Personal checklist for my dual boot
-
+### Note:
+https://forum.endeavouros.com/t/tip-enable-magic-sysrq-key-reisub/7576
 ## looking good so far
 
 ```
